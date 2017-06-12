@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TallerParcking</string>
+
+    <string-array name="Lista">
+
+        <item>Moto</item>
+        <item>Carro</item>
+    </string-array>
+</resources>
